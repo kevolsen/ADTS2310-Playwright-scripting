@@ -84,3 +84,13 @@ Test case 3: Pay bill<br/>
 •	Enter a valid account number and payment details.<br/>
 •	Click the "Submit" button.<br/>
 •	Assert a confirmation message appears (e.g., “Bill payment complete”).<br/>
+
+<h3>Technology used</h3>
+<ul>
+  <li>Playwright</li>
+  <li>TypeScript</li>
+</ul>
+
+<h3>Sources:</h3>
+<li>Paruch, L., Semsøy, S., & Solli, G. H. (2025). Itera [PowerPoint slides]. Itera. https://www.cs.hioa.no/~evav/TestingOsloMet/Forelesninger/20250313-Itera.pdf </li>
+<li>Parasoft. (n.d.). Parabank [Website]. Retrieved March 20, 2025 from https://parabank.parasoft.com</li>
